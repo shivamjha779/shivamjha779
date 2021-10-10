@@ -22,7 +22,7 @@
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/tXSoThF.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
 [4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
@@ -34,7 +34,7 @@
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/shivamjha779
-[2]: http://www.facebook.com/
+[2]: https://www.facebook.com/shivam.plus.5/
 [6]: http://www.github.com/shivamjha779
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -56,3 +56,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Web Dev
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Web Dev and Learning DSA
+- 💬 Ask me about Web, Web Dev, GNU/Linux, algo, CP, Anime 😅
+- 📫 How to reach me: Twitter or Email
+- 😄 Pronouns: He/Him
