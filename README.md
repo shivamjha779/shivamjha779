@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Shivam. I am a third-year student at Malaviya National Institute of Technology Jaipur. My main interest lies in Data structure and algorithms. I also have basic knowledge Web Development. I am always curious to learn about web, GNU/Linux, DSA.
+I am Shivam. I am a final-year student at Malaviya National Institute of Technology Jaipur. My main interest lies in Data structure and algorithms. I also have basic knowledge of Web Development. I am always curious to learn about web dev, GNU/Linux, DSA.
 - 🔭 I’m currently working on Web Dev
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web Dev and Learning DSA
